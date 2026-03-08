@@ -5,7 +5,6 @@ This project demonstrates basic SQL skills for retail sales data analysis.
 It involves creating a retail sales database, performing basic data cleaning, and using SQL queries to explore and analyze sales data.
 
 ## Database
-Database Name: `p1_retail_db`  
 Main Table: `retail`
 
 The dataset contains transaction-level retail sales information including:
