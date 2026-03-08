@@ -35,4 +35,4 @@ The dataset contains transaction-level retail sales information including:
 - Basic exploratory data analysis (EDA)
 
 ## Purpose
-This project is designed as a beginner-friendly SQL project to practice data analysis using real-world style retail sales data.
+This project is to practice data analysis using real-world style retail sales data.
